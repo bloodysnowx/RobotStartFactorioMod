@@ -2,6 +2,7 @@
 
 ITEMS_I_WANT = {
 	{"roboport", 25},
+	{"radar", 25},
 	{"logistic-robot", 300},
 	{"construction-robot", 100},
 	{"logistic-chest-active-provider", 50},
@@ -27,20 +28,20 @@ ITEMS_I_WANT = {
 	{"energy-shield-mk2-equipment", 1},
 	{"personal-laser-defense-equipment", 1},
 	{"exoskeleton-equipment", 5},
-	{"steel-axe", 5},
 
 	{"lab", 10},
-	{"science-pack-1", 50},
+	{"automation-science-pack", 50},
 	{"assembling-machine-3", 50},
 	{"electric-mining-drill", 50},
 	{"electric-furnace", 50},
 	{"express-underground-belt", 100},
 	{"express-transport-belt", 300},
+	{"express-splitter", 100},
+	{"express-loader", 100},
 	{"stack-filter-inserter", 50},
 	{"long-handed-inserter", 50},
 	{"fast-inserter", 50},
 
-	{"hacked-express-splitter", 100},	
 	{"electric-steel-furnace", 50},
 	{"factory-1", 4},
 	{"factory-2", 3},
